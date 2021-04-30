@@ -4,3 +4,6 @@ I have deleted the CE888ProjectWithSequentialCNN.ipynb file since it has line of
 and should be deleted because they weren't useful to anyway to project. Therefore, I have deleted that folder and re-uploaded it.
 I expect to lose mark. I did this to avoid plagiarism.
 
+Additionally in sequential model, PreRenderSequential.ipynb and CE888VGG16ipynb were commented. The file CE888VGG16WithPreRender.ipynb wasn't commented since
+it uses same structure with CE888VGG16ipynb file and CE888ProjectWithSequentialCNN_UploadedAtApril30th_NotToBeMarked file wasn't commented since it have same structure wit 
+PreRenderSequential model. Also the way VGG16 and sequential algorithm were used discussed in the project report.
